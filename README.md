@@ -1,3 +1,3 @@
 # Создание репозитория
-# ![блок-схема](picture.jpg)
+# ![блок-схема](https://drive.google.com/file/d/10VKSaaO1OA4kVcmKjWiCFBEhezENqCfY/view?usp=sharing)
 # Добавляем проект
